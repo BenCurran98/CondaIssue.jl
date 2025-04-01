@@ -1,0 +1,10 @@
+name = "CondaIssue"
+uuid = "f1dd3639-5399-4b2b-bb2f-20a92087abcd"
+authors = ["BenCurran98 <b.curran@fugro.com>"]
+version = "0.1.0"
+
+[deps]
+PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
+
+[compat]
+PythonCall = "0.9.24"
